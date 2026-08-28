@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SistemaEstoque.Models.Produto>
+
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+<div class="text-center">
+    <h1 class="display-5">Lista de Produtos</h1>
+</div>
+
+<div class="text-center">
+    <p>Confira os produtos disponíveis em nosso catálogo.</p>
+<table class="table">
+  <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                 @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th>
+                 @Html.DisplayNameFor(model => model.Quantidade)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+            {
+               <tr>
+                   <td>
+                        @Html.DisplayNameFor(model => item.Nome)
+                   </td>
+                   <td>
+                        @Html.DisplayNameFor(model => item.Preco)
+                   </td>
+                   <td>
+                       @Html.DisplayNameFor(model => item.Quantidade)
+                   </td>
+               </tr>
+            }
+        </tbody>
+
+</table>
+</div>

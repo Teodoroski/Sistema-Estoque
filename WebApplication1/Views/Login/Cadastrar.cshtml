@@ -1,0 +1,24 @@
+﻿@model SistemaEstoque.Models.Usuario
+
+@{
+    ViewData["Title"] = "Cadastrar";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cadastrar - se</h1>
+
+
+<form asp-controller="Login" asp-action="Cadastrar" method="post">
+    <div class="form-label">
+        <label asp-for="Nome">Nome: </label>
+        <input asp-for="Nome"/>
+    </div>
+    
+    <div class="form-label">
+        <label asp-for="Senha">Senha:</label>
+        <input asp-for="Senha" />
+    </div>
+
+    <button type="submit">Cadastrar</button>
+</form>
+</div>

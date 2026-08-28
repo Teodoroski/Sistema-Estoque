@@ -1,0 +1,12 @@
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.exe
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\appsettings.Development.json
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\appsettings.json
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.dll
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.deps.json
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.pdb
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\System.DirectoryServices.Protocols.dll
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\runtimes\linux\lib\net10.0\System.DirectoryServices.Protocols.dll
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\runtimes\osx\lib\net10.0\System.DirectoryServices.Protocols.dll
+D:\Visual-Studio-Projects\source\repos\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\runtimes\win\lib\net10.0\System.DirectoryServices.Protocols.dll

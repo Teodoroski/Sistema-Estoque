@@ -1,0 +1,15 @@
+﻿using Microsoft.EntityFrameworkCore;
+using WebApplication1.Models;
+
+namespace WebApplication1.Context
+{
+    public class EstoqueContext : DbContext
+    {
+        public EstoqueContext(DbContextOptions<EstoqueContext> options) : base(options)
+        {
+            
+        }
+
+       public DbSet<Produto> Produtos { get; set; }
+    }
+}
